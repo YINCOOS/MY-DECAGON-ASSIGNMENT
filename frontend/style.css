@@ -1,0 +1,29 @@
+body {
+    background-color: #9292AE;
+}
+
+#leftbox {
+    float:left;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%; 
+    background: #F1F1FB;
+    width:30%;
+    height:100vh;
+}
+
+#rightbox {
+    float:right;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    background:white;
+    width: 70%;
+    height: 100vh;
+    
+.content-table {
+    border-collapse: collapse;
+    margin: 25px;
+    min-width: 600px;
+  }
+  .content-table th{
+     text-align: left;
+   }
